@@ -1,0 +1,102 @@
+*{
+  margin:0px;
+}
+nav a{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  position: relative;
+  top: 10px;
+  color: black;
+}
+.abc{
+
+  background-color: orange;
+  color: black;
+  border-radius: 10px;
+  padding: 15px; 
+}
+.abc:hover{
+  background-color: aliceblue;
+}
+.header img{
+  position: relative;
+  top: 10px;
+}
+.header2{
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+
+.container2{
+  position: relative;
+  top: 40px;
+  display: flex;
+}
+.minn{
+position: absolute;
+margin-left: 400%;
+}
+
+.box1{
+  padding: 20px;
+  position: relative;
+  left: 60px;
+  border: 5px solid whitesmoke;
+  border-radius: 20px;
+  
+  margin: 10px;
+  height: 400px;
+  background-color: aliceblue;
+
+  
+}
+.fa-thumbs-up{
+  position: relative;
+  font-size: 40px;
+  left: 40%;
+}
+.fa-lightbulb{
+  position: relative;
+  font-size: 40px;
+  left: 40%;
+
+}
+.fa-flag{
+  position: relative;
+  font-size: 40px;
+  left: 40%;
+}
+h3{
+  text-align: center;
+}
+.container3{
+  display: flex;
+  background-color: whitesmoke;
+  width: 92%;
+  height: 600px;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+.img1:hover{
+  opacity: 0.8;
+}
+.fa-facebook{
+  font-size: 30px;
+}
+.fa-telegram{
+  font-size: 30px;
+
+}
+.fa-whatsapp{
+  font-size: 30px;
+}
+.fa-instagram{
+  font-size: 30px;
+}
+
+
+
+
